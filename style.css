@@ -1,0 +1,23 @@
+body {
+	font-family: Arial;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+.container {
+	border: 1px solid black;
+}
+
+#p1 {
+	color: darkgreen
+}
+
+svg {
+	color: blue
+}
